@@ -2,7 +2,7 @@
 Desafio para empresa 55PBX, para vaga de Analista de Qualidade Júnior.
 Este desafio possui algumas questões para resolver em Python, e uma automação simples com a plataforma de minha escolha, que no caso foi Robot.
 
--
+______________________________________________________________________________________________________________________________________
 
 Automação de teste simples com Robot Framework.
 
