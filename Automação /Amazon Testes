@@ -1,0 +1,10 @@
+Automação de teste simples com Robot Framework.
+
+Esse é um pequeno projeto, usando o site da Amazon como exemplo. 
+O que foi automatizado e verificado nesse projeto:
+
+* Abrir o navegador no site escolhido
+* Escrever o produto na barra de pesquisa ("X Box")
+* Verificar se a pesquisa foi bem sucedida
+* Clicar no elemento correspondente
+* Adicionar ao carrinho
