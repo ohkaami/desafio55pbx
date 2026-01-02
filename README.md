@@ -1,2 +1,4 @@
 # desafio55pbx
-Desafio em Python para empresa 55PBX
+Desafio para empresa 55PBX, para vaga de Analista de Qualidade Júnior.
+
+ 
