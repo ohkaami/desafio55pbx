@@ -38,7 +38,7 @@ def multiplicar_elementos(duracao_chamadas):
   valor_total = sum(duracao_chamadas) #Soma de todas as chamadas 
   print(valor_total)
 
-  print(f"O valor das chamadas, vezes o valor é: {(resultado)}. O valor total do faturamento é: {(valor_total)}")
+  print(f"O valor das chamadas, vezes o preço é: {(resultado)}. O valor total do faturamento é: {(valor_total)}")
   
 
 print(multiplicar_elementos(duracao_chamadas))
@@ -51,6 +51,7 @@ print(multiplicar_elementos(duracao_chamadas))
   soma += valortotal
   print(valortotal)"""
 # Esse exemplo somente retorna os valores das chamadas, não o total
+
 
 
 
